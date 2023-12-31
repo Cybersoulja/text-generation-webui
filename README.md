@@ -25,9 +25,9 @@ Its goal is to become the [AUTOMATIC1111/stable-diffusion-webui](https://github.
 
 ## Documentation
 
-To learn how to use the various features, check out the Documentation: 
+To learn how to use the various features, check out the Documentation:
 
-https://github.com/oobabooga/text-generation-webui/wiki
+<https://github.com/oobabooga/text-generation-webui/wiki>
 
 ## Installation
 
@@ -69,7 +69,7 @@ Recommended if you have some experience with the command-line.
 
 #### 0. Install Conda
 
-https://docs.conda.io/en/latest/miniconda.html
+<https://docs.conda.io/en/latest/miniconda.html>
 
 On Linux or WSL, it can be automatically installed with these two commands ([source](https://educe-ubc.github.io/conda.html)):
 
@@ -96,7 +96,7 @@ conda activate textgen
 | Windows | NVIDIA | `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121` |
 | Windows | CPU only | `pip3 install torch torchvision torchaudio` |
 
-The up-to-date commands can be found here: https://pytorch.org/get-started/locally/.
+The up-to-date commands can be found here: <https://pytorch.org/get-started/locally/>.
 
 For NVIDIA, you may also need to manually install the CUDA runtime libraries:
 
@@ -424,7 +424,7 @@ Optionally, you can use the following command-line flags:
 
 ## Google Colab notebook
 
-https://colab.research.google.com/github/oobabooga/text-generation-webui/blob/main/Colab-TextGen-GPU.ipynb
+<https://colab.research.google.com/github/oobabooga/text-generation-webui/blob/main/Colab-TextGen-GPU.ipynb>
 
 ## Contributing
 
@@ -432,8 +432,8 @@ If you would like to contribute to the project, check out the [Contributing guid
 
 ## Community
 
-* Subreddit: https://www.reddit.com/r/oobabooga/
-* Discord: https://discord.gg/jwZCF2dPQN
+* Subreddit: <https://www.reddit.com/r/oobabooga/>
+* Discord: <https://discord.gg/jwZCF2dPQN>
 
 ## Acknowledgment
 
